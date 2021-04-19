@@ -1,0 +1,9 @@
+{
+    "require": {
+        "randomuser/generator": "^1.0",
+        "fzaninotto/faker": "~1.4",
+        "menarasolutions/geographer": "^0.3.7",
+        "geoip2/geoip2": "~2.0",
+        "ext-json": "*"
+    }
+}
